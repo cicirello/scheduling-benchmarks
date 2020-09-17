@@ -4,4 +4,5 @@ This repository contains a mirror of a few sets of scheduling problem benchmark 
 
 ## Benchmarks Available
 
+* __Common Due Date Scheduling:__ Directory [/common-due-date](common-due-date) are the benchmark instances for common due date scheduling from OR-Library.
 * __Weighted Tardiness Scheduling:__ Directory [/wt](wt) are the benchmark instances for weighted tardiness scheduling from OR-Library.
